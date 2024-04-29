@@ -1,3 +1,5 @@
+'use client';
+
 import Image from "next/image";
 import { Tldraw } from 'tldraw'
 import 'tldraw/tldraw.css'
